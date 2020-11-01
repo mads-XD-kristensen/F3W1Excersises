@@ -1,0 +1,12 @@
+[submodule "day1_ex"]
+	path = day1_ex
+	url = https://github.com/mads-XD-kristensen/F3W1Excersises
+[submodule "day2_ex"]
+	path = day2_ex
+	url = https://github.com/mads-XD-kristensen/F3W1Excersises
+[submodule "day3_ex"]
+	path = day3_ex
+	url = https://github.com/mads-XD-kristensen/F3W1Excersises
+[submodule "day3_lifting_state_up"]
+	path = day3_lifting_state_up
+	url = https://github.com/mads-XD-kristensen/F3W1Excersises
